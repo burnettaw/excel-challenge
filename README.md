@@ -1,2 +1,2 @@
 # excel-hw
-For excel homework 
+For excel projects 
